@@ -8,7 +8,6 @@ authors:
   - given-names: Birk
     family-names: Torpmann-Hagen
     email: birk.torpmann.hagen@gmail.com
-    name-particle: Birk
     affiliation: 'UiT: The Arctic University of Norway'
 repository-code: 'https://github.com/BirkTorpmannHagen/DSDTestbed/'
 abstract: >-
