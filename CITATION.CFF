@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: DSDTestBed
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Birk
+    family-names: Torpmann-Hagen
+    email: birk.torpmann.hagen@gmail.com
+    name-particle: Birk
+    affiliation: 'UiT: The Arctic University of Norway'
+repository-code: 'https://github.com/BirkTorpmannHagen/DSDTestbed/'
+abstract: >-
+  Simple functionalities for supporting research on OoD
+  detector and distributional shift research.
+license: CC-BY-NC-SA-4.0
